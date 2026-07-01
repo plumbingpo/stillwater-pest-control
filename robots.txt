@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pestcontrolstillwater.com/sitemap.xml
